@@ -1,2 +1,2 @@
 # calculodoimc #
-Projeto em Python para calcular o ìndice de Massa Corporal.
+Projeto em Python para calcular o Índice de Massa Corporal(IMC).
